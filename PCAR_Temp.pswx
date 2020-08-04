@@ -1,0 +1,42 @@
+<workspace name="PCAR_Temp" version="4.6.2" crc="3358508">
+  <paramlist name="options">
+    <param name="compile_save_enable" value="false" />
+    <param name="autosave_interval" value="0" />
+    <param name="display_project_file_name" value="false" />
+    <param name="sort_messages" value="false" />
+    <param name="type_conversion_warn" value="1" />
+    <param name="private_env" value="true" />
+    <param name="unit_system_warn" value="1" />
+    <param name="case_sensitivity" value="true" />
+    <param name="ss_limit" value="256" />
+    <param name="MaxRadioCount" value="256" />
+    <param name="cim_compatibility" value="true" />
+    <param name="MaxConcurrentSim" value="32" />
+    <param name="SocketPortBase" value="30000" />
+    <param name="memory_notify" value="256" />
+    <param name="output_empty" value="1" />
+    <param name="output_excess" value="1" />
+    <param name="output_density" value="1" />
+    <param name="waveform_overwrite" value="1" />
+    <param name="snapshot_overwrite" value="1" />
+    <param name="duplicate_messages" value="100" />
+    <param name="runtime_canvas_lock" value="0" />
+  </paramlist>
+  <projects>
+    <project type="project" name="SCR_Temp" filepath=".\SCR\Master\SCR_Temp.pscx" />
+    <project type="project" name="LVRT_Temp" filepath=".\LVRT\Master\LVRT_Temp.pscx" />
+    <project type="project" name="HVRT_Temp" filepath=".\HVRT\Master\HVRT_Temp.pscx" />
+    <project type="project" name="AUP_Temp" filepath=".\AUP\Master\AUP_Temp.pscx" />
+    <project type="project" name="ADW_Temp" filepath=".\ADW\Master\ADW_Temp.pscx" />
+    <project type="project" name="VUP_Temp" filepath=".\VUP\Master\VUP_Temp.pscx" />
+    <project type="project" name="VDW_Temp" filepath=".\VDW\Master\VDW_Temp.pscx" />
+  </projects>
+  <simulations />
+  <messagegrid expanded="">
+    <column name="Icon" />
+    <column name="Id" />
+    <column name="Component" />
+    <column name="Namespace" />
+    <column name="Description" />
+  </messagegrid>
+</workspace>

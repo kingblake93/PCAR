@@ -1,0 +1,24 @@
+PSCAD Automation Run (PCAR) Version 1.0
+
+Copyright © 2020 by Xiaoyu Wang. All rights reserved.
+
+As a user of this ERCOT preproduction software, you accept and acknowledge that:
+  
+1: This software is a preproduction version which may have problems 
+2: Reproduction or distribution of this preproduction software for any commercial purpose is prohibited
+3: ERCOT will evaluate all user suggestions and recommendations, but does not guarantee they will be incorporated into the final production product 
+4: As a preproduction user, you agree to provide feedback as a condition of obtaining the preproduction software
+  
+Contact information:
+ 
+	The Electric Reliability Council of Texas
+	2705 West Lake Drive
+	Taylor, Texas 76574
+	www.ercot.com
+
+	Phone: 	(512)248-3958
+	email:	xiaoyu.wang@ercot.com
+
+============================================
+Please click on Agree to proceed.
+Please click on Exit to end the application.
